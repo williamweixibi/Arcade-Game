@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at Final_Compilation.v(373): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at Final_Compilation.v(251): object "y" differs only in case from object "Y" in the same scope
+Info (10281): Verilog HDL Declaration information at fill.v(192): object "reset" differs only in case from object "RESET" in the same scope
